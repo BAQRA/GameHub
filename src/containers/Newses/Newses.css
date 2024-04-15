@@ -1,0 +1,18 @@
+.Newses{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin-left: 30%;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Newses li{
+    padding-bottom: 50px;
+    list-style: none;
+}
+
+.Newses ul{
+    margin: 0;
+    padding: 0;
+}

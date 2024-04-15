@@ -1,0 +1,12 @@
+.Banner{
+    background-color: red;
+    padding: 0px;
+    height: 100%;
+}
+
+.Banner img{
+    display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,25 @@
+.Pages{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+
+.Pages a{
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    font-size: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+.Pages a:hover{
+    color: orange;
+    background-color: black;
+}
+
+.Pages .active{
+    background-color: black;
+    color: orange;
+}

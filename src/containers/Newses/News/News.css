@@ -1,0 +1,30 @@
+.News{
+    box-shadow: 0 15px 30px orange;
+    display: flex;
+    flex-wrap: wrap;
+    width: 740px;
+    background-color: black;
+}
+
+.Title {
+    padding: 1rem;
+    margin: 0;
+    width: 100%;
+    background-color: orange;
+}
+
+.Image,
+.Image img{
+    width: 740px;
+    height: 200px;
+}
+
+.Description{
+    position: relative;
+    color: orange;
+}
+.Description p{
+    padding: 0;
+    margin: 0;
+    width: auto;
+}
